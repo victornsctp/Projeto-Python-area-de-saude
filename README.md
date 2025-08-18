@@ -13,9 +13,10 @@ Estrutura do Repositório <br>
 │   └── cause_of_deaths.csv <br>
 ├── notebooks/ <br>
 │   └── analise_mortalidade.ipynb  <br>
-├── images/ <br>
+├── imagens/ <br>
 │   └── graficos/ <br>
-├── Documentação
+├── Documentação <br>
+│   └── TCC Victor Nascimento <br>
 ├── README.md <br>
 
 Tecnologias Utilizadas:
