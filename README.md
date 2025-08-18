@@ -8,14 +8,14 @@ Objetivos do Projeto:
 - Comparar o desempenho dos modelos usando métricas como R², MAE, MSE e RMSE.
 - Avaliar padrões de associação entre diabetes, doenças cardiovasculares e doença renal crônica.
 
-Estrutura do Repositório
-├── data/
-│   └── cause_of_deaths.csv 
-├── notebooks/
-│   └── analise_mortalidade.ipynb 
-├── images/
-│   └── graficos/ 
-├── README.md     
+Estrutura do Repositório <br>
+├── data/ <br>
+│   └── cause_of_deaths.csv <br>
+├── notebooks/ <br>
+│   └── analise_mortalidade.ipynb  <br>
+├── images/ <br>
+│   └── graficos/ <br>
+├── README.md <br>
 
 Tecnologias Utilizadas:
 - Python 3.9+
@@ -30,14 +30,14 @@ Ambiente:
 - Anaconda Python
 - Jupyter Notebook
 
-Instalação
-1️) Baixar e instalar o Anaconda Python
-Acesse: 👉 https://www.anaconda.com/download
-Siga as instruções do instalador.
+Instalação <br>
+1️) Baixar e instalar o Anaconda Python <br>
+Acesse: 👉 https://www.anaconda.com/download <br>
+Siga as instruções do instalador. <br>
 2️) Abrir o Jupyter Notebook
-Após instalar o Anaconda, digite os seguintes comandos no prompt de comando:
-conda activate base       # Ativar o ambiente
-jupyter notebook          # Abrir o Jupyter Notebook
+Após instalar o Anaconda, digite os seguintes comandos no prompt de comando: <br>
+conda activate base       # Ativar o ambiente <br>
+jupyter notebook          # Abrir o Jupyter Notebook <br>
 O navegador será aberto automaticamente.
 
 Como Executar o Projeto:
@@ -48,9 +48,9 @@ Como Executar o Projeto:
 
 Fonte de Dados: A base de dados foi obtida no Kaggle, plataforma de ciência de dados que oferece datasets com métricas de confiabilidade (selos e notas de usabilidade).
 
-Autor
-Victor Nascimento dos Passos
-passosvictor83@gmail.com
+Autor <br>
+Victor Nascimento dos Passos <br>
+passosvictor83@gmail.com <br>
 Trabalho de Conclusão de Curso – Análise e Desenvolvimento de Sistemas
 
 
