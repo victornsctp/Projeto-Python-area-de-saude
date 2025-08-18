@@ -10,12 +10,12 @@ Objetivos do Projeto:
 
 Estrutura do Repositório
 ├── data/
-│   └── cause_of_deaths.csv     #Base de dados utilizada (Kaggle)
+│   └── cause_of_deaths.csv 
 ├── notebooks/
-│   └── analise_mortalidade.ipynb   #Jupyter Notebook principal com códigos e análises
+│   └── analise_mortalidade.ipynb 
 ├── images/
-│   └── graficos/               #Gráficos gerados (PNG)
-├── README.md                   #Este arquivo
+│   └── graficos/ 
+├── README.md     
 
 Tecnologias Utilizadas:
 - Python 3.9+
