@@ -17,6 +17,8 @@ Estrutura do Repositório <br>
 │   └── graficos/ <br>
 ├── Documentação <br>
 │   └── TCC Victor Nascimento <br>
+├── Slides (Apresentação) <br>
+│   └── TCC apresentação <br>
 ├── README.md <br>
 
 Tecnologias Utilizadas:
